@@ -1,0 +1,2 @@
+C:/Users/User/Desktop/New folder/Target2/real1_frame_491.jpg,1,388,62,498,PullingTissue
+C:/Users/User/Desktop/New folder/Target2/real1_frame_491.jpg,103,285,232,414,CuttingMesocolon
